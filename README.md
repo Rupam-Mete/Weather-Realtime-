@@ -15,13 +15,12 @@ This project is a simple weather forecast website built using HTML, CSS, and Jav
 
 # Preview
 
-![Screenshot 2024-03-24 224200](https://github.com/Himanshu3412/Weather_Forecast/assets/163979859/932f5749-f7d4-47cd-9498-0ec8344fb515)
+![1st page](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161738.png)
 ![Enter city](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161751.png)
 ![Empty input](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161804.png)
 ![Wrong input](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161823.png)
 ![Display weather](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161912.png)
 ![Display 2](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/Screenshot%202025-06-03%20161930.png)
-![Screenshot 2024-03-24 225549](https://github.com/Himanshu3412/Weather_Forecast/assets/163979859/68365c0f-5534-4d3c-9a17-83170dd6bb14)
 
 # Go Live
 
