@@ -54,7 +54,7 @@ Thank you for your support and contributions!
 
 Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
 
-- GitHub: [Himanshu3412](https://github.com/Himanshu3412)
+- GitHub: [Rupam mete](https://github.com/Rupam-Mete)
 
 ##  All the best! 
 
