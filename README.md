@@ -57,4 +57,4 @@ Thank you for exploring the Netflix Homepage Clone! If you have any questions, s
 
 ##  All the best! 
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Himanshu3412/Weather_Forecast)
+[![Thanks to all ](https://github.com/Rupam-Mete/Weather-Realtime-/blob/main/images/thanks.jpg)
